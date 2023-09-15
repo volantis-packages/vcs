@@ -1,0 +1,3 @@
+class SimpleRepositoryManager extends RepositoryManagerBase {
+
+}
