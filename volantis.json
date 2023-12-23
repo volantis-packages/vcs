@@ -8,7 +8,7 @@
             "email": "ben@volantisdev.com"
     }],
     "require": {
-        "volantis/common": "^1.0"
+        "volantis/common": "^1.0 || dev-main"
     },
     "libraries": {
         "Git": "lib/Git",
